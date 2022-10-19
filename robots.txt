@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://paradoxinfinite.github.io/para-docs/sitemap.xml.gz
+Sitemap: https://paradoxinfinite.github.io/paradocs/sitemap.xml.gz
