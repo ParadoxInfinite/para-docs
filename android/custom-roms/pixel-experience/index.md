@@ -37,7 +37,7 @@ Installing PE (12.1 and above) on Redmi K20 Pro/Xiaomi Mi 9T Pro (raphael/raphae
     +++ Android File Host
     [Android File Host](https://androidfilehost.com/?fid=15664248565197208249) - by Pranav Talmale
     +++ Direct Download
-    [!file Direct download](Ofox-R11.1_1-FBEv2.zip)
+    [!file Direct download](https://github.com/ParadoxInfinite/paradocs/releases/download/ofox-recovery-fbev2/Ofox-R11.1_1-FBEv2.zip)
     +++
 
 #### 2. Instructions
