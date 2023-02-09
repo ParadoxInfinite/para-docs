@@ -5,13 +5,14 @@ author:
     email: s.samarthkulkarni@gmail.com
     link: https://github.com/ParadoxInfinite/
 date: 2022-10-19T01:40
+title: PixelExperience
 categories: [custom-roms, android, guides, raphael]
 description: Installation guide for PixelExperience 12.1+ on raphael/raphaelin
 image: https://descargas.ams3.digitaloceanspaces.com/images/710/ux9-ux10-theme-pixel-experience-android-10-11_android_409_1.png
 ---
 # PixelExperience
 
-![](https://download.pixelexperience.org/images/PixelExperienceLogo_White.svg)
+![](https://gizblog.it/wp-content/uploads/2019/02/pixel-experience-banner-1024x576.jpg)
 
 <br/>
 Installing PE (12.1 and above) on Redmi K20 Pro/Xiaomi Mi 9T Pro (raphael/raphaelin)
